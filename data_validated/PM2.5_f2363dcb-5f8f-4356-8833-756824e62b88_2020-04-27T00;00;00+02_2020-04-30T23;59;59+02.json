@@ -1,0 +1,972 @@
+[
+    {
+        "id": "02b15412-195d-496b-a20f-273cb5a5abc2",
+        "station_id": "f2363dcb-5f8f-4356-8833-756824e62b88",
+        "component_id": "311aa322-65bf-4f53-9341-702376f437e0",
+        "value": 12.1,
+        "timestamp_measured": "2020-04-26T22:00:00+00:00",
+        "import_log_id": "a1d47004-e091-4283-8e00-4a63151646a3",
+        "rating": 2,
+        "status": "validated"
+    },
+    {
+        "id": "a514f491-6667-4a2a-b437-b467f2c4438d",
+        "station_id": "f2363dcb-5f8f-4356-8833-756824e62b88",
+        "component_id": "311aa322-65bf-4f53-9341-702376f437e0",
+        "value": 13.0,
+        "timestamp_measured": "2020-04-26T23:00:00+00:00",
+        "import_log_id": "a1d47004-e091-4283-8e00-4a63151646a3",
+        "rating": 2,
+        "status": "validated"
+    },
+    {
+        "id": "ebe6df34-2ec3-4cf7-898c-6d7c8e06ca4d",
+        "station_id": "f2363dcb-5f8f-4356-8833-756824e62b88",
+        "component_id": "311aa322-65bf-4f53-9341-702376f437e0",
+        "value": 15.4,
+        "timestamp_measured": "2020-04-27T00:00:00+00:00",
+        "import_log_id": "c14cd217-b1d7-48ac-bf2e-9a2e8fa75b32",
+        "rating": 3,
+        "status": "validated"
+    },
+    {
+        "id": "7bb474c9-ba37-4513-920a-a93761dbf4b4",
+        "station_id": "f2363dcb-5f8f-4356-8833-756824e62b88",
+        "component_id": "311aa322-65bf-4f53-9341-702376f437e0",
+        "value": 18.2,
+        "timestamp_measured": "2020-04-27T01:00:00+00:00",
+        "import_log_id": "c14cd217-b1d7-48ac-bf2e-9a2e8fa75b32",
+        "rating": 3,
+        "status": "validated"
+    },
+    {
+        "id": "38cc2b8a-658d-4e61-8740-730639a437c7",
+        "station_id": "f2363dcb-5f8f-4356-8833-756824e62b88",
+        "component_id": "311aa322-65bf-4f53-9341-702376f437e0",
+        "value": 20.2,
+        "timestamp_measured": "2020-04-27T02:00:00+00:00",
+        "import_log_id": "c14cd217-b1d7-48ac-bf2e-9a2e8fa75b32",
+        "rating": 4,
+        "status": "validated"
+    },
+    {
+        "id": "36d26c72-3772-43ff-914e-f8013b1e363c",
+        "station_id": "f2363dcb-5f8f-4356-8833-756824e62b88",
+        "component_id": "311aa322-65bf-4f53-9341-702376f437e0",
+        "value": 19.8,
+        "timestamp_measured": "2020-04-27T03:00:00+00:00",
+        "import_log_id": "c14cd217-b1d7-48ac-bf2e-9a2e8fa75b32",
+        "rating": 3,
+        "status": "validated"
+    },
+    {
+        "id": "9dce2c2c-4695-426f-9b21-622e6efc33d4",
+        "station_id": "f2363dcb-5f8f-4356-8833-756824e62b88",
+        "component_id": "311aa322-65bf-4f53-9341-702376f437e0",
+        "value": 28.1,
+        "timestamp_measured": "2020-04-27T04:00:00+00:00",
+        "import_log_id": "c14cd217-b1d7-48ac-bf2e-9a2e8fa75b32",
+        "rating": 4,
+        "status": "validated"
+    },
+    {
+        "id": "3f2a58b2-edff-4cad-98cd-9efbbc3a962c",
+        "station_id": "f2363dcb-5f8f-4356-8833-756824e62b88",
+        "component_id": "311aa322-65bf-4f53-9341-702376f437e0",
+        "value": 28.1,
+        "timestamp_measured": "2020-04-27T05:00:00+00:00",
+        "import_log_id": "c14cd217-b1d7-48ac-bf2e-9a2e8fa75b32",
+        "rating": 4,
+        "status": "validated"
+    },
+    {
+        "id": "05ee17fe-75b6-4780-b633-e9b25e1ffc64",
+        "station_id": "f2363dcb-5f8f-4356-8833-756824e62b88",
+        "component_id": "311aa322-65bf-4f53-9341-702376f437e0",
+        "value": 23.9,
+        "timestamp_measured": "2020-04-27T06:00:00+00:00",
+        "import_log_id": "c14cd217-b1d7-48ac-bf2e-9a2e8fa75b32",
+        "rating": 4,
+        "status": "validated"
+    },
+    {
+        "id": "3e4bb553-bb5d-4de2-88e4-3dacfa64ac16",
+        "station_id": "f2363dcb-5f8f-4356-8833-756824e62b88",
+        "component_id": "311aa322-65bf-4f53-9341-702376f437e0",
+        "value": 26.1,
+        "timestamp_measured": "2020-04-27T07:00:00+00:00",
+        "import_log_id": "c14cd217-b1d7-48ac-bf2e-9a2e8fa75b32",
+        "rating": 4,
+        "status": "validated"
+    },
+    {
+        "id": "bb5f2e19-386d-40e7-a532-c8a2b93d2f8e",
+        "station_id": "f2363dcb-5f8f-4356-8833-756824e62b88",
+        "component_id": "311aa322-65bf-4f53-9341-702376f437e0",
+        "value": 23.7,
+        "timestamp_measured": "2020-04-27T08:00:00+00:00",
+        "import_log_id": "c14cd217-b1d7-48ac-bf2e-9a2e8fa75b32",
+        "rating": 4,
+        "status": "validated"
+    },
+    {
+        "id": "b8232d84-67b1-4232-946a-59aca9a9599d",
+        "station_id": "f2363dcb-5f8f-4356-8833-756824e62b88",
+        "component_id": "311aa322-65bf-4f53-9341-702376f437e0",
+        "value": 22.1,
+        "timestamp_measured": "2020-04-27T09:00:00+00:00",
+        "import_log_id": "c14cd217-b1d7-48ac-bf2e-9a2e8fa75b32",
+        "rating": 4,
+        "status": "validated"
+    },
+    {
+        "id": "14c8adde-3e15-46df-a0e3-323e66a145e0",
+        "station_id": "f2363dcb-5f8f-4356-8833-756824e62b88",
+        "component_id": "311aa322-65bf-4f53-9341-702376f437e0",
+        "value": 22.3,
+        "timestamp_measured": "2020-04-27T10:00:00+00:00",
+        "import_log_id": "c14cd217-b1d7-48ac-bf2e-9a2e8fa75b32",
+        "rating": 4,
+        "status": "validated"
+    },
+    {
+        "id": "018af6d7-43e4-40b3-8e16-8bd1a9ade290",
+        "station_id": "f2363dcb-5f8f-4356-8833-756824e62b88",
+        "component_id": "311aa322-65bf-4f53-9341-702376f437e0",
+        "value": 23.2,
+        "timestamp_measured": "2020-04-27T11:00:00+00:00",
+        "import_log_id": "c14cd217-b1d7-48ac-bf2e-9a2e8fa75b32",
+        "rating": 4,
+        "status": "validated"
+    },
+    {
+        "id": "0ce92e39-e810-42c4-8de4-ed0896ec6c52",
+        "station_id": "f2363dcb-5f8f-4356-8833-756824e62b88",
+        "component_id": "311aa322-65bf-4f53-9341-702376f437e0",
+        "value": 13.8,
+        "timestamp_measured": "2020-04-27T12:00:00+00:00",
+        "import_log_id": "c14cd217-b1d7-48ac-bf2e-9a2e8fa75b32",
+        "rating": 2,
+        "status": "validated"
+    },
+    {
+        "id": "5d2c0742-fc9d-46b1-9652-bfb19007d3ac",
+        "station_id": "f2363dcb-5f8f-4356-8833-756824e62b88",
+        "component_id": "311aa322-65bf-4f53-9341-702376f437e0",
+        "value": 20.8,
+        "timestamp_measured": "2020-04-27T13:00:00+00:00",
+        "import_log_id": "c14cd217-b1d7-48ac-bf2e-9a2e8fa75b32",
+        "rating": 4,
+        "status": "validated"
+    },
+    {
+        "id": "bf39f2b6-22b3-4e65-87c8-a48998ff6c41",
+        "station_id": "f2363dcb-5f8f-4356-8833-756824e62b88",
+        "component_id": "311aa322-65bf-4f53-9341-702376f437e0",
+        "value": 21.2,
+        "timestamp_measured": "2020-04-27T14:00:00+00:00",
+        "import_log_id": "c14cd217-b1d7-48ac-bf2e-9a2e8fa75b32",
+        "rating": 4,
+        "status": "validated"
+    },
+    {
+        "id": "91410de3-1911-42a6-a4b8-ca24aadf1b3e",
+        "station_id": "f2363dcb-5f8f-4356-8833-756824e62b88",
+        "component_id": "311aa322-65bf-4f53-9341-702376f437e0",
+        "value": 26.8,
+        "timestamp_measured": "2020-04-27T15:00:00+00:00",
+        "import_log_id": "c14cd217-b1d7-48ac-bf2e-9a2e8fa75b32",
+        "rating": 4,
+        "status": "validated"
+    },
+    {
+        "id": "5a40695c-101c-428d-804f-8915d63e86d5",
+        "station_id": "f2363dcb-5f8f-4356-8833-756824e62b88",
+        "component_id": "311aa322-65bf-4f53-9341-702376f437e0",
+        "value": 21.2,
+        "timestamp_measured": "2020-04-27T16:00:00+00:00",
+        "import_log_id": "c14cd217-b1d7-48ac-bf2e-9a2e8fa75b32",
+        "rating": 4,
+        "status": "validated"
+    },
+    {
+        "id": "75eab30e-34af-497c-b0f5-c23b575ce4c1",
+        "station_id": "f2363dcb-5f8f-4356-8833-756824e62b88",
+        "component_id": "311aa322-65bf-4f53-9341-702376f437e0",
+        "value": 20.2,
+        "timestamp_measured": "2020-04-27T17:00:00+00:00",
+        "import_log_id": "c14cd217-b1d7-48ac-bf2e-9a2e8fa75b32",
+        "rating": 4,
+        "status": "validated"
+    },
+    {
+        "id": "05b7532c-13c3-4c49-abfe-accbd20494ac",
+        "station_id": "f2363dcb-5f8f-4356-8833-756824e62b88",
+        "component_id": "311aa322-65bf-4f53-9341-702376f437e0",
+        "value": 26.6,
+        "timestamp_measured": "2020-04-27T18:00:00+00:00",
+        "import_log_id": "c14cd217-b1d7-48ac-bf2e-9a2e8fa75b32",
+        "rating": 4,
+        "status": "validated"
+    },
+    {
+        "id": "95e7d058-c33c-4a8b-9793-0ca3db144191",
+        "station_id": "f2363dcb-5f8f-4356-8833-756824e62b88",
+        "component_id": "311aa322-65bf-4f53-9341-702376f437e0",
+        "value": 18.1,
+        "timestamp_measured": "2020-04-27T19:00:00+00:00",
+        "import_log_id": "c14cd217-b1d7-48ac-bf2e-9a2e8fa75b32",
+        "rating": 3,
+        "status": "validated"
+    },
+    {
+        "id": "534178cd-7594-485c-b00e-75edf912c4dd",
+        "station_id": "f2363dcb-5f8f-4356-8833-756824e62b88",
+        "component_id": "311aa322-65bf-4f53-9341-702376f437e0",
+        "value": 22.4,
+        "timestamp_measured": "2020-04-27T20:00:00+00:00",
+        "import_log_id": "c14cd217-b1d7-48ac-bf2e-9a2e8fa75b32",
+        "rating": 4,
+        "status": "validated"
+    },
+    {
+        "id": "c41f72eb-be8c-46b8-aabd-54d08426a7b1",
+        "station_id": "f2363dcb-5f8f-4356-8833-756824e62b88",
+        "component_id": "311aa322-65bf-4f53-9341-702376f437e0",
+        "value": 24.3,
+        "timestamp_measured": "2020-04-27T21:00:00+00:00",
+        "import_log_id": "c14cd217-b1d7-48ac-bf2e-9a2e8fa75b32",
+        "rating": 4,
+        "status": "validated"
+    },
+    {
+        "id": "16821a65-48ac-40ea-84eb-2751689d8e3e",
+        "station_id": "f2363dcb-5f8f-4356-8833-756824e62b88",
+        "component_id": "311aa322-65bf-4f53-9341-702376f437e0",
+        "value": 25.8,
+        "timestamp_measured": "2020-04-27T22:00:00+00:00",
+        "import_log_id": "c14cd217-b1d7-48ac-bf2e-9a2e8fa75b32",
+        "rating": 4,
+        "status": "validated"
+    },
+    {
+        "id": "e748a3a5-bb3a-41b7-811a-c1b8f9555e36",
+        "station_id": "f2363dcb-5f8f-4356-8833-756824e62b88",
+        "component_id": "311aa322-65bf-4f53-9341-702376f437e0",
+        "value": 16.7,
+        "timestamp_measured": "2020-04-27T23:00:00+00:00",
+        "import_log_id": "c14cd217-b1d7-48ac-bf2e-9a2e8fa75b32",
+        "rating": 3,
+        "status": "validated"
+    },
+    {
+        "id": "8ce242c9-2389-42ac-b000-c3968125f948",
+        "station_id": "f2363dcb-5f8f-4356-8833-756824e62b88",
+        "component_id": "311aa322-65bf-4f53-9341-702376f437e0",
+        "value": 19.7,
+        "timestamp_measured": "2020-04-28T00:00:00+00:00",
+        "import_log_id": "b6e8a1a1-adda-46f0-b5a4-7031c7c0723b",
+        "rating": 3,
+        "status": "validated"
+    },
+    {
+        "id": "8e384109-ce4a-4eb1-ba1d-dbb87cff20c4",
+        "station_id": "f2363dcb-5f8f-4356-8833-756824e62b88",
+        "component_id": "311aa322-65bf-4f53-9341-702376f437e0",
+        "value": 18.4,
+        "timestamp_measured": "2020-04-28T01:00:00+00:00",
+        "import_log_id": "b6e8a1a1-adda-46f0-b5a4-7031c7c0723b",
+        "rating": 3,
+        "status": "validated"
+    },
+    {
+        "id": "abf13978-51f1-4726-b084-1b1025fe050e",
+        "station_id": "f2363dcb-5f8f-4356-8833-756824e62b88",
+        "component_id": "311aa322-65bf-4f53-9341-702376f437e0",
+        "value": 16.3,
+        "timestamp_measured": "2020-04-28T02:00:00+00:00",
+        "import_log_id": "b6e8a1a1-adda-46f0-b5a4-7031c7c0723b",
+        "rating": 3,
+        "status": "validated"
+    },
+    {
+        "id": "3fd2e21c-70e9-4f61-a3dd-d674167f269e",
+        "station_id": "f2363dcb-5f8f-4356-8833-756824e62b88",
+        "component_id": "311aa322-65bf-4f53-9341-702376f437e0",
+        "value": 13.4,
+        "timestamp_measured": "2020-04-28T03:00:00+00:00",
+        "import_log_id": "b6e8a1a1-adda-46f0-b5a4-7031c7c0723b",
+        "rating": 2,
+        "status": "validated"
+    },
+    {
+        "id": "b8f42ee6-b62d-45f1-84da-34eeef5a3fa0",
+        "station_id": "f2363dcb-5f8f-4356-8833-756824e62b88",
+        "component_id": "311aa322-65bf-4f53-9341-702376f437e0",
+        "value": 12.8,
+        "timestamp_measured": "2020-04-28T04:00:00+00:00",
+        "import_log_id": "b6e8a1a1-adda-46f0-b5a4-7031c7c0723b",
+        "rating": 2,
+        "status": "validated"
+    },
+    {
+        "id": "9dc701e2-5e23-4735-a2fc-90ac52060fae",
+        "station_id": "f2363dcb-5f8f-4356-8833-756824e62b88",
+        "component_id": "311aa322-65bf-4f53-9341-702376f437e0",
+        "value": 11.9,
+        "timestamp_measured": "2020-04-28T05:00:00+00:00",
+        "import_log_id": "b6e8a1a1-adda-46f0-b5a4-7031c7c0723b",
+        "rating": 2,
+        "status": "validated"
+    },
+    {
+        "id": "7556eab1-4802-4642-8fcc-cb206677046e",
+        "station_id": "f2363dcb-5f8f-4356-8833-756824e62b88",
+        "component_id": "311aa322-65bf-4f53-9341-702376f437e0",
+        "value": 10.7,
+        "timestamp_measured": "2020-04-28T06:00:00+00:00",
+        "import_log_id": "b6e8a1a1-adda-46f0-b5a4-7031c7c0723b",
+        "rating": 2,
+        "status": "validated"
+    },
+    {
+        "id": "00a02fb4-13b5-4ddb-8228-20d2212b47d3",
+        "station_id": "f2363dcb-5f8f-4356-8833-756824e62b88",
+        "component_id": "311aa322-65bf-4f53-9341-702376f437e0",
+        "value": 10.9,
+        "timestamp_measured": "2020-04-28T07:00:00+00:00",
+        "import_log_id": "b6e8a1a1-adda-46f0-b5a4-7031c7c0723b",
+        "rating": 2,
+        "status": "validated"
+    },
+    {
+        "id": "7ddb0c1a-0708-4de0-a2d1-2a5343dcd296",
+        "station_id": "f2363dcb-5f8f-4356-8833-756824e62b88",
+        "component_id": "311aa322-65bf-4f53-9341-702376f437e0",
+        "value": 8.6,
+        "timestamp_measured": "2020-04-28T08:00:00+00:00",
+        "import_log_id": "b6e8a1a1-adda-46f0-b5a4-7031c7c0723b",
+        "rating": 1,
+        "status": "validated"
+    },
+    {
+        "id": "4669efc3-2509-4031-92e6-240df8aaf105",
+        "station_id": "f2363dcb-5f8f-4356-8833-756824e62b88",
+        "component_id": "311aa322-65bf-4f53-9341-702376f437e0",
+        "value": 7.2,
+        "timestamp_measured": "2020-04-28T09:00:00+00:00",
+        "import_log_id": "b6e8a1a1-adda-46f0-b5a4-7031c7c0723b",
+        "rating": 1,
+        "status": "validated"
+    },
+    {
+        "id": "6951569c-96e6-48c8-bcf4-d59530513439",
+        "station_id": "f2363dcb-5f8f-4356-8833-756824e62b88",
+        "component_id": "311aa322-65bf-4f53-9341-702376f437e0",
+        "value": 8.0,
+        "timestamp_measured": "2020-04-28T10:00:00+00:00",
+        "import_log_id": "b6e8a1a1-adda-46f0-b5a4-7031c7c0723b",
+        "rating": 1,
+        "status": "validated"
+    },
+    {
+        "id": "d6c49893-950e-49fc-a88f-5e9fb1efeff6",
+        "station_id": "f2363dcb-5f8f-4356-8833-756824e62b88",
+        "component_id": "311aa322-65bf-4f53-9341-702376f437e0",
+        "value": 5.5,
+        "timestamp_measured": "2020-04-28T11:00:00+00:00",
+        "import_log_id": "b6e8a1a1-adda-46f0-b5a4-7031c7c0723b",
+        "rating": 1,
+        "status": "validated"
+    },
+    {
+        "id": "f7f53537-d1d4-432b-8436-150457b2bf37",
+        "station_id": "f2363dcb-5f8f-4356-8833-756824e62b88",
+        "component_id": "311aa322-65bf-4f53-9341-702376f437e0",
+        "value": 4.0,
+        "timestamp_measured": "2020-04-28T12:00:00+00:00",
+        "import_log_id": "b6e8a1a1-adda-46f0-b5a4-7031c7c0723b",
+        "rating": 1,
+        "status": "validated"
+    },
+    {
+        "id": "c2a79a03-b40e-4b4e-b9d8-3c5ebe7c0bb3",
+        "station_id": "f2363dcb-5f8f-4356-8833-756824e62b88",
+        "component_id": "311aa322-65bf-4f53-9341-702376f437e0",
+        "value": 2.9,
+        "timestamp_measured": "2020-04-28T13:00:00+00:00",
+        "import_log_id": "b6e8a1a1-adda-46f0-b5a4-7031c7c0723b",
+        "rating": 1,
+        "status": "validated"
+    },
+    {
+        "id": "e0a9eb7e-c6b3-46f8-9164-ad74c2aae939",
+        "station_id": "f2363dcb-5f8f-4356-8833-756824e62b88",
+        "component_id": "311aa322-65bf-4f53-9341-702376f437e0",
+        "value": 3.3,
+        "timestamp_measured": "2020-04-28T14:00:00+00:00",
+        "import_log_id": "b6e8a1a1-adda-46f0-b5a4-7031c7c0723b",
+        "rating": 1,
+        "status": "validated"
+    },
+    {
+        "id": "0022e340-ee63-40fb-a4e9-1b4b0737b137",
+        "station_id": "f2363dcb-5f8f-4356-8833-756824e62b88",
+        "component_id": "311aa322-65bf-4f53-9341-702376f437e0",
+        "value": 6.6,
+        "timestamp_measured": "2020-04-28T15:00:00+00:00",
+        "import_log_id": "b6e8a1a1-adda-46f0-b5a4-7031c7c0723b",
+        "rating": 1,
+        "status": "validated"
+    },
+    {
+        "id": "e9cd1fa1-9f28-4469-996b-3495a0b9b101",
+        "station_id": "f2363dcb-5f8f-4356-8833-756824e62b88",
+        "component_id": "311aa322-65bf-4f53-9341-702376f437e0",
+        "value": 8.7,
+        "timestamp_measured": "2020-04-28T16:00:00+00:00",
+        "import_log_id": "b6e8a1a1-adda-46f0-b5a4-7031c7c0723b",
+        "rating": 1,
+        "status": "validated"
+    },
+    {
+        "id": "056d48e3-e061-45a7-bcf3-3c8d7bd471be",
+        "station_id": "f2363dcb-5f8f-4356-8833-756824e62b88",
+        "component_id": "311aa322-65bf-4f53-9341-702376f437e0",
+        "value": 8.5,
+        "timestamp_measured": "2020-04-28T17:00:00+00:00",
+        "import_log_id": "b6e8a1a1-adda-46f0-b5a4-7031c7c0723b",
+        "rating": 1,
+        "status": "validated"
+    },
+    {
+        "id": "16e9d561-71f9-4fc3-877b-856071103054",
+        "station_id": "f2363dcb-5f8f-4356-8833-756824e62b88",
+        "component_id": "311aa322-65bf-4f53-9341-702376f437e0",
+        "value": 7.1,
+        "timestamp_measured": "2020-04-28T18:00:00+00:00",
+        "import_log_id": "b6e8a1a1-adda-46f0-b5a4-7031c7c0723b",
+        "rating": 1,
+        "status": "validated"
+    },
+    {
+        "id": "97bb8d9f-ae94-4984-92a1-dcb48072d227",
+        "station_id": "f2363dcb-5f8f-4356-8833-756824e62b88",
+        "component_id": "311aa322-65bf-4f53-9341-702376f437e0",
+        "value": 6.0,
+        "timestamp_measured": "2020-04-28T19:00:00+00:00",
+        "import_log_id": "b6e8a1a1-adda-46f0-b5a4-7031c7c0723b",
+        "rating": 1,
+        "status": "validated"
+    },
+    {
+        "id": "6d9baad6-03c6-4815-a06c-a44902dba1bd",
+        "station_id": "f2363dcb-5f8f-4356-8833-756824e62b88",
+        "component_id": "311aa322-65bf-4f53-9341-702376f437e0",
+        "value": 7.1,
+        "timestamp_measured": "2020-04-28T20:00:00+00:00",
+        "import_log_id": "b6e8a1a1-adda-46f0-b5a4-7031c7c0723b",
+        "rating": 1,
+        "status": "validated"
+    },
+    {
+        "id": "e082d963-9b01-4644-83a4-bfbae672c4c5",
+        "station_id": "f2363dcb-5f8f-4356-8833-756824e62b88",
+        "component_id": "311aa322-65bf-4f53-9341-702376f437e0",
+        "value": 8.8,
+        "timestamp_measured": "2020-04-28T21:00:00+00:00",
+        "import_log_id": "b6e8a1a1-adda-46f0-b5a4-7031c7c0723b",
+        "rating": 1,
+        "status": "validated"
+    },
+    {
+        "id": "af03114f-0106-4c28-8572-358033ca2cfe",
+        "station_id": "f2363dcb-5f8f-4356-8833-756824e62b88",
+        "component_id": "311aa322-65bf-4f53-9341-702376f437e0",
+        "value": 9.9,
+        "timestamp_measured": "2020-04-28T22:00:00+00:00",
+        "import_log_id": "b6e8a1a1-adda-46f0-b5a4-7031c7c0723b",
+        "rating": 1,
+        "status": "validated"
+    },
+    {
+        "id": "7d0e0434-b48c-424c-b53c-ac082bc9f8da",
+        "station_id": "f2363dcb-5f8f-4356-8833-756824e62b88",
+        "component_id": "311aa322-65bf-4f53-9341-702376f437e0",
+        "value": 6.4,
+        "timestamp_measured": "2020-04-28T23:00:00+00:00",
+        "import_log_id": "b6e8a1a1-adda-46f0-b5a4-7031c7c0723b",
+        "rating": 1,
+        "status": "validated"
+    },
+    {
+        "id": "64d9a74e-eb0f-482c-a577-0be715e535cc",
+        "station_id": "f2363dcb-5f8f-4356-8833-756824e62b88",
+        "component_id": "311aa322-65bf-4f53-9341-702376f437e0",
+        "value": 5.7,
+        "timestamp_measured": "2020-04-29T00:00:00+00:00",
+        "import_log_id": "2d2f2159-df61-4e1f-8134-2534ee31189e",
+        "rating": 1,
+        "status": "validated"
+    },
+    {
+        "id": "ef566db9-5bfd-4280-af62-47b3b7ffc99e",
+        "station_id": "f2363dcb-5f8f-4356-8833-756824e62b88",
+        "component_id": "311aa322-65bf-4f53-9341-702376f437e0",
+        "value": 7.4,
+        "timestamp_measured": "2020-04-29T01:00:00+00:00",
+        "import_log_id": "2d2f2159-df61-4e1f-8134-2534ee31189e",
+        "rating": 1,
+        "status": "validated"
+    },
+    {
+        "id": "b37b513b-9ac8-4d72-868f-bd6fb7e0e27d",
+        "station_id": "f2363dcb-5f8f-4356-8833-756824e62b88",
+        "component_id": "311aa322-65bf-4f53-9341-702376f437e0",
+        "value": 7.7,
+        "timestamp_measured": "2020-04-29T02:00:00+00:00",
+        "import_log_id": "2d2f2159-df61-4e1f-8134-2534ee31189e",
+        "rating": 1,
+        "status": "validated"
+    },
+    {
+        "id": "16417207-7e59-4579-b8b0-8937d85b816f",
+        "station_id": "f2363dcb-5f8f-4356-8833-756824e62b88",
+        "component_id": "311aa322-65bf-4f53-9341-702376f437e0",
+        "value": 10.0,
+        "timestamp_measured": "2020-04-29T03:00:00+00:00",
+        "import_log_id": "2d2f2159-df61-4e1f-8134-2534ee31189e",
+        "rating": 2,
+        "status": "validated"
+    },
+    {
+        "id": "da619201-a910-4382-ab3d-defa327334c8",
+        "station_id": "f2363dcb-5f8f-4356-8833-756824e62b88",
+        "component_id": "311aa322-65bf-4f53-9341-702376f437e0",
+        "value": 19.1,
+        "timestamp_measured": "2020-04-29T04:00:00+00:00",
+        "import_log_id": "2d2f2159-df61-4e1f-8134-2534ee31189e",
+        "rating": 3,
+        "status": "validated"
+    },
+    {
+        "id": "89752b35-e59a-44d2-96c1-a52c77ce20a8",
+        "station_id": "f2363dcb-5f8f-4356-8833-756824e62b88",
+        "component_id": "311aa322-65bf-4f53-9341-702376f437e0",
+        "value": 23.8,
+        "timestamp_measured": "2020-04-29T05:00:00+00:00",
+        "import_log_id": "2d2f2159-df61-4e1f-8134-2534ee31189e",
+        "rating": 4,
+        "status": "validated"
+    },
+    {
+        "id": "5bb59175-a997-4283-a2a8-68a8ced79911",
+        "station_id": "f2363dcb-5f8f-4356-8833-756824e62b88",
+        "component_id": "311aa322-65bf-4f53-9341-702376f437e0",
+        "value": 25.4,
+        "timestamp_measured": "2020-04-29T06:00:00+00:00",
+        "import_log_id": "2d2f2159-df61-4e1f-8134-2534ee31189e",
+        "rating": 4,
+        "status": "validated"
+    },
+    {
+        "id": "7954806e-0d52-4b85-afd7-0c29d84382ca",
+        "station_id": "f2363dcb-5f8f-4356-8833-756824e62b88",
+        "component_id": "311aa322-65bf-4f53-9341-702376f437e0",
+        "value": 25.7,
+        "timestamp_measured": "2020-04-29T07:00:00+00:00",
+        "import_log_id": "2d2f2159-df61-4e1f-8134-2534ee31189e",
+        "rating": 4,
+        "status": "validated"
+    },
+    {
+        "id": "a7b4b650-0ad2-4745-b669-2f91712123f6",
+        "station_id": "f2363dcb-5f8f-4356-8833-756824e62b88",
+        "component_id": "311aa322-65bf-4f53-9341-702376f437e0",
+        "value": 23.5,
+        "timestamp_measured": "2020-04-29T08:00:00+00:00",
+        "import_log_id": "2d2f2159-df61-4e1f-8134-2534ee31189e",
+        "rating": 4,
+        "status": "validated"
+    },
+    {
+        "id": "76bdb852-a854-47b9-80b2-e3e3ce6a8a69",
+        "station_id": "f2363dcb-5f8f-4356-8833-756824e62b88",
+        "component_id": "311aa322-65bf-4f53-9341-702376f437e0",
+        "value": 20.6,
+        "timestamp_measured": "2020-04-29T09:00:00+00:00",
+        "import_log_id": "2d2f2159-df61-4e1f-8134-2534ee31189e",
+        "rating": 4,
+        "status": "validated"
+    },
+    {
+        "id": "81005180-dd56-4f4f-9630-176f2b731fe1",
+        "station_id": "f2363dcb-5f8f-4356-8833-756824e62b88",
+        "component_id": "311aa322-65bf-4f53-9341-702376f437e0",
+        "value": 9.7,
+        "timestamp_measured": "2020-04-29T10:00:00+00:00",
+        "import_log_id": "2d2f2159-df61-4e1f-8134-2534ee31189e",
+        "rating": 1,
+        "status": "validated"
+    },
+    {
+        "id": "ebe7853d-2ad4-4bbd-b8fd-f59614ceb8f1",
+        "station_id": "f2363dcb-5f8f-4356-8833-756824e62b88",
+        "component_id": "311aa322-65bf-4f53-9341-702376f437e0",
+        "value": 9.2,
+        "timestamp_measured": "2020-04-29T11:00:00+00:00",
+        "import_log_id": "2d2f2159-df61-4e1f-8134-2534ee31189e",
+        "rating": 1,
+        "status": "validated"
+    },
+    {
+        "id": "fd4663e3-373e-4c93-b71f-5567ddace33e",
+        "station_id": "f2363dcb-5f8f-4356-8833-756824e62b88",
+        "component_id": "311aa322-65bf-4f53-9341-702376f437e0",
+        "value": 6.9,
+        "timestamp_measured": "2020-04-29T12:00:00+00:00",
+        "import_log_id": "2d2f2159-df61-4e1f-8134-2534ee31189e",
+        "rating": 1,
+        "status": "validated"
+    },
+    {
+        "id": "4852f581-6ea6-4571-b18d-ebd42cdbbc0a",
+        "station_id": "f2363dcb-5f8f-4356-8833-756824e62b88",
+        "component_id": "311aa322-65bf-4f53-9341-702376f437e0",
+        "value": 5.8,
+        "timestamp_measured": "2020-04-29T13:00:00+00:00",
+        "import_log_id": "2d2f2159-df61-4e1f-8134-2534ee31189e",
+        "rating": 1,
+        "status": "validated"
+    },
+    {
+        "id": "49afd593-4360-428f-997d-855d3e202ea4",
+        "station_id": "f2363dcb-5f8f-4356-8833-756824e62b88",
+        "component_id": "311aa322-65bf-4f53-9341-702376f437e0",
+        "value": 6.9,
+        "timestamp_measured": "2020-04-29T14:00:00+00:00",
+        "import_log_id": "2d2f2159-df61-4e1f-8134-2534ee31189e",
+        "rating": 1,
+        "status": "validated"
+    },
+    {
+        "id": "059bcb10-490a-4900-adc0-4667f8430f4e",
+        "station_id": "f2363dcb-5f8f-4356-8833-756824e62b88",
+        "component_id": "311aa322-65bf-4f53-9341-702376f437e0",
+        "value": 11.1,
+        "timestamp_measured": "2020-04-29T15:00:00+00:00",
+        "import_log_id": "2d2f2159-df61-4e1f-8134-2534ee31189e",
+        "rating": 2,
+        "status": "validated"
+    },
+    {
+        "id": "55a66075-bd14-4d22-9e2d-0a0186bfe3b4",
+        "station_id": "f2363dcb-5f8f-4356-8833-756824e62b88",
+        "component_id": "311aa322-65bf-4f53-9341-702376f437e0",
+        "value": 13.5,
+        "timestamp_measured": "2020-04-29T16:00:00+00:00",
+        "import_log_id": "2d2f2159-df61-4e1f-8134-2534ee31189e",
+        "rating": 2,
+        "status": "validated"
+    },
+    {
+        "id": "128f9dc4-5c2e-48d0-b4c3-c5045279a7a1",
+        "station_id": "f2363dcb-5f8f-4356-8833-756824e62b88",
+        "component_id": "311aa322-65bf-4f53-9341-702376f437e0",
+        "value": 9.7,
+        "timestamp_measured": "2020-04-29T17:00:00+00:00",
+        "import_log_id": "2d2f2159-df61-4e1f-8134-2534ee31189e",
+        "rating": 1,
+        "status": "validated"
+    },
+    {
+        "id": "824483c9-a9c0-4eb6-8779-a7c159528dab",
+        "station_id": "f2363dcb-5f8f-4356-8833-756824e62b88",
+        "component_id": "311aa322-65bf-4f53-9341-702376f437e0",
+        "value": 5.8,
+        "timestamp_measured": "2020-04-29T18:00:00+00:00",
+        "import_log_id": "2d2f2159-df61-4e1f-8134-2534ee31189e",
+        "rating": 1,
+        "status": "validated"
+    },
+    {
+        "id": "49f0f179-dc77-45a3-b7e7-a7bd04eb357e",
+        "station_id": "f2363dcb-5f8f-4356-8833-756824e62b88",
+        "component_id": "311aa322-65bf-4f53-9341-702376f437e0",
+        "value": 3.0,
+        "timestamp_measured": "2020-04-29T19:00:00+00:00",
+        "import_log_id": "2d2f2159-df61-4e1f-8134-2534ee31189e",
+        "rating": 1,
+        "status": "validated"
+    },
+    {
+        "id": "fa05d914-556b-4d7c-adf4-5d87d78bbaff",
+        "station_id": "f2363dcb-5f8f-4356-8833-756824e62b88",
+        "component_id": "311aa322-65bf-4f53-9341-702376f437e0",
+        "value": 4.0,
+        "timestamp_measured": "2020-04-29T20:00:00+00:00",
+        "import_log_id": "2d2f2159-df61-4e1f-8134-2534ee31189e",
+        "rating": 1,
+        "status": "validated"
+    },
+    {
+        "id": "99196506-92de-4f7b-b7de-1d1ca464c19c",
+        "station_id": "f2363dcb-5f8f-4356-8833-756824e62b88",
+        "component_id": "311aa322-65bf-4f53-9341-702376f437e0",
+        "value": 6.4,
+        "timestamp_measured": "2020-04-29T21:00:00+00:00",
+        "import_log_id": "2d2f2159-df61-4e1f-8134-2534ee31189e",
+        "rating": 1,
+        "status": "validated"
+    },
+    {
+        "id": "2b785028-0b71-491d-ac57-ff0507b99494",
+        "station_id": "f2363dcb-5f8f-4356-8833-756824e62b88",
+        "component_id": "311aa322-65bf-4f53-9341-702376f437e0",
+        "value": 2.9,
+        "timestamp_measured": "2020-04-29T22:00:00+00:00",
+        "import_log_id": "2d2f2159-df61-4e1f-8134-2534ee31189e",
+        "rating": 1,
+        "status": "validated"
+    },
+    {
+        "id": "c74b0a2b-fe0e-4e01-97f9-ef807432db83",
+        "station_id": "f2363dcb-5f8f-4356-8833-756824e62b88",
+        "component_id": "311aa322-65bf-4f53-9341-702376f437e0",
+        "value": 0.0,
+        "timestamp_measured": "2020-04-29T23:00:00+00:00",
+        "import_log_id": "2d2f2159-df61-4e1f-8134-2534ee31189e",
+        "rating": 1,
+        "status": "validated"
+    },
+    {
+        "id": "9de25941-6d55-4b8b-8763-ded5434d72a7",
+        "station_id": "f2363dcb-5f8f-4356-8833-756824e62b88",
+        "component_id": "311aa322-65bf-4f53-9341-702376f437e0",
+        "value": 2.7,
+        "timestamp_measured": "2020-04-30T00:00:00+00:00",
+        "import_log_id": "c71646d1-96a8-4748-96c7-3b356d2da000",
+        "rating": 1,
+        "status": "validated"
+    },
+    {
+        "id": "58d6ba58-5d57-4e8a-a939-a41a8780b89c",
+        "station_id": "f2363dcb-5f8f-4356-8833-756824e62b88",
+        "component_id": "311aa322-65bf-4f53-9341-702376f437e0",
+        "value": 2.9,
+        "timestamp_measured": "2020-04-30T01:00:00+00:00",
+        "import_log_id": "c71646d1-96a8-4748-96c7-3b356d2da000",
+        "rating": 1,
+        "status": "validated"
+    },
+    {
+        "id": "bf631e13-3e45-4475-b1d7-f84e3971341f",
+        "station_id": "f2363dcb-5f8f-4356-8833-756824e62b88",
+        "component_id": "311aa322-65bf-4f53-9341-702376f437e0",
+        "value": 2.7,
+        "timestamp_measured": "2020-04-30T02:00:00+00:00",
+        "import_log_id": "c71646d1-96a8-4748-96c7-3b356d2da000",
+        "rating": 1,
+        "status": "validated"
+    },
+    {
+        "id": "c795e9a1-e2a6-46ef-8883-e9bc97d35d00",
+        "station_id": "f2363dcb-5f8f-4356-8833-756824e62b88",
+        "component_id": "311aa322-65bf-4f53-9341-702376f437e0",
+        "value": 5.9,
+        "timestamp_measured": "2020-04-30T03:00:00+00:00",
+        "import_log_id": "c71646d1-96a8-4748-96c7-3b356d2da000",
+        "rating": 1,
+        "status": "validated"
+    },
+    {
+        "id": "ec1b3f2d-d2f9-44ad-a28a-2639c86fd4d1",
+        "station_id": "f2363dcb-5f8f-4356-8833-756824e62b88",
+        "component_id": "311aa322-65bf-4f53-9341-702376f437e0",
+        "value": 6.5,
+        "timestamp_measured": "2020-04-30T04:00:00+00:00",
+        "import_log_id": "c71646d1-96a8-4748-96c7-3b356d2da000",
+        "rating": 1,
+        "status": "validated"
+    },
+    {
+        "id": "488adf38-ca5c-47f7-a1b2-1badc47f989f",
+        "station_id": "f2363dcb-5f8f-4356-8833-756824e62b88",
+        "component_id": "311aa322-65bf-4f53-9341-702376f437e0",
+        "value": 5.9,
+        "timestamp_measured": "2020-04-30T05:00:00+00:00",
+        "import_log_id": "c71646d1-96a8-4748-96c7-3b356d2da000",
+        "rating": 1,
+        "status": "validated"
+    },
+    {
+        "id": "681ab640-82a1-4e91-bd32-d78630a252ef",
+        "station_id": "f2363dcb-5f8f-4356-8833-756824e62b88",
+        "component_id": "311aa322-65bf-4f53-9341-702376f437e0",
+        "value": 6.5,
+        "timestamp_measured": "2020-04-30T06:00:00+00:00",
+        "import_log_id": "c71646d1-96a8-4748-96c7-3b356d2da000",
+        "rating": 1,
+        "status": "validated"
+    },
+    {
+        "id": "57fd5a93-4660-4ce6-a9e2-ef10f6062932",
+        "station_id": "f2363dcb-5f8f-4356-8833-756824e62b88",
+        "component_id": "311aa322-65bf-4f53-9341-702376f437e0",
+        "value": 9.6,
+        "timestamp_measured": "2020-04-30T07:00:00+00:00",
+        "import_log_id": "c71646d1-96a8-4748-96c7-3b356d2da000",
+        "rating": 1,
+        "status": "validated"
+    },
+    {
+        "id": "f4f40bb5-62f8-4deb-a1f8-4fedd35148a0",
+        "station_id": "f2363dcb-5f8f-4356-8833-756824e62b88",
+        "component_id": "311aa322-65bf-4f53-9341-702376f437e0",
+        "value": 8.4,
+        "timestamp_measured": "2020-04-30T08:00:00+00:00",
+        "import_log_id": "c71646d1-96a8-4748-96c7-3b356d2da000",
+        "rating": 1,
+        "status": "validated"
+    },
+    {
+        "id": "61257f21-119a-42b8-902e-6e33a0d253b3",
+        "station_id": "f2363dcb-5f8f-4356-8833-756824e62b88",
+        "component_id": "311aa322-65bf-4f53-9341-702376f437e0",
+        "value": 6.9,
+        "timestamp_measured": "2020-04-30T09:00:00+00:00",
+        "import_log_id": "c71646d1-96a8-4748-96c7-3b356d2da000",
+        "rating": 1,
+        "status": "validated"
+    },
+    {
+        "id": "25e98ec0-daac-4380-89f8-4d4323f146e3",
+        "station_id": "f2363dcb-5f8f-4356-8833-756824e62b88",
+        "component_id": "311aa322-65bf-4f53-9341-702376f437e0",
+        "value": 6.6,
+        "timestamp_measured": "2020-04-30T10:00:00+00:00",
+        "import_log_id": "c71646d1-96a8-4748-96c7-3b356d2da000",
+        "rating": 1,
+        "status": "validated"
+    },
+    {
+        "id": "c285ae3c-da34-48b9-881c-515d1d0cab61",
+        "station_id": "f2363dcb-5f8f-4356-8833-756824e62b88",
+        "component_id": "311aa322-65bf-4f53-9341-702376f437e0",
+        "value": 5.4,
+        "timestamp_measured": "2020-04-30T11:00:00+00:00",
+        "import_log_id": "c71646d1-96a8-4748-96c7-3b356d2da000",
+        "rating": 1,
+        "status": "validated"
+    },
+    {
+        "id": "aca3ac10-7c73-454f-9330-e9e01a3bafdf",
+        "station_id": "f2363dcb-5f8f-4356-8833-756824e62b88",
+        "component_id": "311aa322-65bf-4f53-9341-702376f437e0",
+        "value": 8.6,
+        "timestamp_measured": "2020-04-30T12:00:00+00:00",
+        "import_log_id": "c71646d1-96a8-4748-96c7-3b356d2da000",
+        "rating": 1,
+        "status": "validated"
+    },
+    {
+        "id": "87fd60ca-95ce-4133-81a1-7a32b849139f",
+        "station_id": "f2363dcb-5f8f-4356-8833-756824e62b88",
+        "component_id": "311aa322-65bf-4f53-9341-702376f437e0",
+        "value": 7.5,
+        "timestamp_measured": "2020-04-30T13:00:00+00:00",
+        "import_log_id": "c71646d1-96a8-4748-96c7-3b356d2da000",
+        "rating": 1,
+        "status": "validated"
+    },
+    {
+        "id": "47cd5b41-14fd-4eb9-8a05-0afc995b483a",
+        "station_id": "f2363dcb-5f8f-4356-8833-756824e62b88",
+        "component_id": "311aa322-65bf-4f53-9341-702376f437e0",
+        "value": 5.8,
+        "timestamp_measured": "2020-04-30T14:00:00+00:00",
+        "import_log_id": "c71646d1-96a8-4748-96c7-3b356d2da000",
+        "rating": 1,
+        "status": "validated"
+    },
+    {
+        "id": "4c835aed-3183-46b1-a475-15409dbdeb61",
+        "station_id": "f2363dcb-5f8f-4356-8833-756824e62b88",
+        "component_id": "311aa322-65bf-4f53-9341-702376f437e0",
+        "value": 6.2,
+        "timestamp_measured": "2020-04-30T15:00:00+00:00",
+        "import_log_id": "c71646d1-96a8-4748-96c7-3b356d2da000",
+        "rating": 1,
+        "status": "validated"
+    },
+    {
+        "id": "72c6f4a6-b3df-42ad-9aa2-47a0f3ba11ba",
+        "station_id": "f2363dcb-5f8f-4356-8833-756824e62b88",
+        "component_id": "311aa322-65bf-4f53-9341-702376f437e0",
+        "value": 3.8,
+        "timestamp_measured": "2020-04-30T16:00:00+00:00",
+        "import_log_id": "c71646d1-96a8-4748-96c7-3b356d2da000",
+        "rating": 1,
+        "status": "validated"
+    },
+    {
+        "id": "5b623b1a-73a8-41ca-9e39-17b4923d1723",
+        "station_id": "f2363dcb-5f8f-4356-8833-756824e62b88",
+        "component_id": "311aa322-65bf-4f53-9341-702376f437e0",
+        "value": 4.5,
+        "timestamp_measured": "2020-04-30T17:00:00+00:00",
+        "import_log_id": "c71646d1-96a8-4748-96c7-3b356d2da000",
+        "rating": 1,
+        "status": "validated"
+    },
+    {
+        "id": "29dfdfec-e0c0-4a36-8d2c-ca7e3b67e5e7",
+        "station_id": "f2363dcb-5f8f-4356-8833-756824e62b88",
+        "component_id": "311aa322-65bf-4f53-9341-702376f437e0",
+        "value": 4.2,
+        "timestamp_measured": "2020-04-30T18:00:00+00:00",
+        "import_log_id": "c71646d1-96a8-4748-96c7-3b356d2da000",
+        "rating": 1,
+        "status": "validated"
+    },
+    {
+        "id": "4fd71f56-9ed0-4315-a617-f0ed67bd5813",
+        "station_id": "f2363dcb-5f8f-4356-8833-756824e62b88",
+        "component_id": "311aa322-65bf-4f53-9341-702376f437e0",
+        "value": 3.8,
+        "timestamp_measured": "2020-04-30T19:00:00+00:00",
+        "import_log_id": "c71646d1-96a8-4748-96c7-3b356d2da000",
+        "rating": 1,
+        "status": "validated"
+    },
+    {
+        "id": "c1a36158-e4eb-4035-a347-4dc2cbddad15",
+        "station_id": "f2363dcb-5f8f-4356-8833-756824e62b88",
+        "component_id": "311aa322-65bf-4f53-9341-702376f437e0",
+        "value": 3.2,
+        "timestamp_measured": "2020-04-30T20:00:00+00:00",
+        "import_log_id": "c71646d1-96a8-4748-96c7-3b356d2da000",
+        "rating": 1,
+        "status": "validated"
+    },
+    {
+        "id": "d68c4b56-623f-403b-a450-0df20f44137a",
+        "station_id": "f2363dcb-5f8f-4356-8833-756824e62b88",
+        "component_id": "311aa322-65bf-4f53-9341-702376f437e0",
+        "value": 1.2,
+        "timestamp_measured": "2020-04-30T21:00:00+00:00",
+        "import_log_id": "c71646d1-96a8-4748-96c7-3b356d2da000",
+        "rating": 1,
+        "status": "validated"
+    },
+    {
+        "id": "3b898a8d-065e-470d-a74c-6e9c88fcce36",
+        "station_id": "f2363dcb-5f8f-4356-8833-756824e62b88",
+        "component_id": "311aa322-65bf-4f53-9341-702376f437e0",
+        "value": -999.0,
+        "timestamp_measured": "2020-04-30T22:00:00+00:00",
+        "import_log_id": "c44d934c-15ae-49e5-8c42-cbde6b745f8a",
+        "rating": -999,
+        "status": "unvalidated"
+    }
+]
