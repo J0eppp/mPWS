@@ -9,5 +9,5 @@ We hebben een programma gemaakt dat alle acties in één keer doet.
 Om het programma uit te voeren moet het onderstaande commando uitgevoert worden
 
 ```bash
-python master.py ../data ../data_validated_combined ../data_validated_combined ../data_validated_selected ../data_validated_selected ../data_validated_valid validated
+foo@bar:~/mPWS/src $ python master.py ../data ../data_validated_combined ../data_validated_combined ../data_validated_selected ../data_validated_selected ../data_validated_valid validated
 ```
