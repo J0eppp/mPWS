@@ -1,3 +1,7 @@
-/data/
-/[a-Z]*.zip
-/data_[a-z]_[a-z]*/
+*
+!/src/
+!/ESP8266 Examples/
+!LICENSE
+!README.md
+!Resultaten.xlsx
+!.gitignore
