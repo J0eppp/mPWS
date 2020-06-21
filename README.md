@@ -3,17 +3,11 @@ Miniprofielwerkstuk van Sam Statijen en Joep van Dijk
 
 
 # Usage
-## Get all the data
-```console
-foo@bar:~/mPWS/src $ python get_data_from_luchtmeetnet.py
-```
+## master.py
+We hebben een programma gemaakt dat alle acties in één keer doet. 
 
-## Combine all the files to four big files
-```console
-foo@bar:~/mPWS/src $ python combine_all_json_files.py ../data ../data_combined
-```
+Om het programma uit te voeren moet het onderstaande commando uitgevoert worden
 
-## Get all the important data
-```console
-foo@bar:~/mPWS/src $ python select_important_data.py ../data_combined ../data_selected
+```bash
+python master.py ../data ../data_validated_combined ../data_validated_combined ../data_validated_selected ../data_validated_selected ../data_validated_valid validated
 ```

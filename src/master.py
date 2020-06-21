@@ -38,12 +38,13 @@ requests_done = 0
 
 
 class Province(threading.Thread):
-	def __init__(self, name, id):
+	def __init__(self, name, id, output_folder):
 		super().__init__()
 
 		self.name = name
 		self.id = id
 		self.stations = []
+		self.output_folder = output_folder
 
 		self.start()
 
@@ -55,19 +56,20 @@ class Province(threading.Thread):
 			station_name = s['name']
 			station_id = s['id']
 			station_location = s['geometry']
-			self.stations.append(Station(station_name, station_id, station_location, self))
+			self.stations.append(Station(station_name, station_id, station_location, self, self.output_folder))
 
 		for station in self.stations:
 			station.join()
 
 
 class Station(threading.Thread):
-	def __init__(self, name: str, id: int, location: list, province: Province):
+	def __init__(self, name: str, id: int, location: list, province: Province, output_folder: str):
 		super().__init__()
 		self.name = name
 		self.id = id
 		self.location = location
 		self.province = province
+		self.output_folder = output_folder
 
 		global total_requests
 
@@ -98,7 +100,7 @@ class Station(threading.Thread):
 						continue
 					else:
 						# Save the data here
-						file = open('../data/{}_{}_{}_{}.json'.format(component, self.id, start.replace(':', ';'), end.replace(':', ';')), 'w+')
+						file = open('{}/{}_{}_{}_{}.json'.format(self.output_folder, component, self.id, start.replace(':', ';'), end.replace(':', ';')), 'w+')
 						json.dump(result, file, indent = 4)
 						file.close()
 				except requests.exceptions.SSLError:
@@ -149,7 +151,7 @@ def get_data_from_luchtmeetnet_info():
 			break
 
 
-def get_data_from_luchtmeetnet():
+def get_data_from_luchtmeetnet(output_folder):
 	p = get_periods_of_month(2019, 4)
 	for week in p:
 		periods.append(week)
@@ -160,7 +162,7 @@ def get_data_from_luchtmeetnet():
 
 	provinces = []
 	for province in provinces_data:
-		provinces.append(Province(province, provinces_data[province]))
+		provinces.append(Province(province, provinces_data[province], output_folder))
 
 	info_thread = threading.Thread(target = get_data_from_luchtmeetnet_info)
 	info_thread.start()
@@ -280,7 +282,26 @@ def main():
 	select_output = sys.argv[4]
 	valid_input = sys.argv[5]
 	valid_output = sys.argv[6]
-	get_data_from_luchtmeetnet()
+
+	if not os.path.exists(combine_input):
+		os.makedirs(combine_input)
+
+	if not os.path.exists(combine_output):
+		os.makedirs(combine_output)
+
+	if not os.path.exists(select_input):
+		os.makedirs(select_input)
+
+	if not os.path.exists(select_output):
+		os.makedirs(select_output)
+
+	if not os.path.exists(valid_input):
+		os.makedirs(valid_input)
+
+	if not os.path.exists(valid_output):
+		os.makedirs(valid_output)
+
+	get_data_from_luchtmeetnet(combine_input)
 	combine_files(combine_input, combine_output)
 	select_important_data(select_input, select_output)
 	get_valid_values(valid_input, valid_output)
