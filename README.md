@@ -1,6 +1,10 @@
 # mPWS
 Miniprofielwerkstuk van Sam Statijen en Joep van Dijk
 
+# Verslag
+Het verslag is te vinden op [verslag](https://github.com/J0eppp/mPWS/blob/master/Corona%20luchtkwaliteit-%20ANW%20mPWS%20Joep%20en%20Sam%20-%20FINAL.pdf)
+De presentatie is te vinden op [presentatie](https://github.com/J0eppp/mPWS/blob/master/Powerpoint%20videopresentatie.pptx)
+
 
 # Usage
 ## master.py
